@@ -1,3 +1,3 @@
 # DEMO
 
-Hello world.
+Hello world!
